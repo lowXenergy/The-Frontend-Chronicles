@@ -8,4 +8,6 @@
 
 05-css - It's all about how to style different components with css.
 
-06-css - 
+06-css - Intro to tailwind css.
+
+07-ui-project - UI Design Project 

@@ -10,4 +10,14 @@
 
 06-css - Intro to tailwind css.
 
-07-ui-project - UI Design Project 
+07-ui-project - UI Design Project. 
+
+08-function - How to call functions in ReactJS.
+
+09-useState - useState hook (Made a counter).
+
+10-useState - useState advance(batch update).
+
+11-formHandling - tow-way-binding(basic form).
+
+12-notes-app - Made a notes app(add note , edit and delete note functionality).

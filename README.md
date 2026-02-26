@@ -20,4 +20,12 @@
 
 11-formHandling - tow-way-binding(basic form).
 
-12-notes-app - Made a notes app(add note , edit and delete note functionality).
+12-two-way-binding - Made a notes app.
+
+13-notes-app - Note taking app(add note , edit and delete note functionality).
+
+14-localStorage - localStorage (clear,setItem,getItem,removeItem).
+
+15-API - fetch and axios
+
+16-useEffect -

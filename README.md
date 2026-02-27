@@ -28,4 +28,6 @@
 
 15-API - fetch and axios
 
-16-useEffect -
+16-useEffect - All about useEffect.
+
+17-gallery-project - Made a gallery project (useState, useEffect and useCallback).

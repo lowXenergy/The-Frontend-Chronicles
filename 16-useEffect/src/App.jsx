@@ -7,7 +7,8 @@ const App = () => {
     console.log("use effect is running",first);
   },[first])
   
-  return (
+  return ( 
+    
     <div>
       <h1>{first}</h1>
       <button onMouseEnter={()=>{

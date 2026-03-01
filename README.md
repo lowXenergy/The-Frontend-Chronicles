@@ -1,10 +1,10 @@
 01-folder - Setting Up react with vite.
 
-02-Components - Components
+02-Components - Components.
 
-03-Props - Understanding Props
+03-Props - Understanding Props.
 
-04-cards-project - Cards project using props
+04-cards-project - Cards project using props.
 
 05-css - It's all about how to style different components with css.
 
@@ -26,8 +26,16 @@
 
 14-localStorage - localStorage (clear,setItem,getItem,removeItem).
 
-15-API - fetch and axios
+15-API - fetch and axios.
 
 16-useEffect - All about useEffect.
 
 17-gallery-project - Made a gallery project (useState, useEffect and useCallback). 
+
+18-react-router-dom - Basics route.
+
+19-routing-advance - Advance routing(nested routes) & dynamic routing.
+
+20-context-api - All about context API.
+
+T-01-ThreeJs - ThreeJS basics.
